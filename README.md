@@ -7,14 +7,14 @@
   </p>
 <div align="center">
 
-| [![Beltah KE]([https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50](https://ibb.co/GJB5LDq))](https://github.com/Beltahmd)|
+| [![RASH MD]([https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50](https://ibb.co/GJB5LDq))](https://github.com/Beltahmd)|
 |----|
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-MD+IS+A+SIMPLE+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="[https://img.shields.io/badge/Creator-BELTAH](https://ibb.co/GJB5LDq) TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/beltah-md?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahmd?label=Followers&style=social"></a>
@@ -22,7 +22,7 @@
 <a href="https://github.com/Beltahmd/beltah-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahmd/beltah-md?style=social"></a>
 <a href="https://github.com/Beltahmd/beltah-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahmd/beltah-md?label=Watching&style=social"></a>
   
-## GET 𝗕𝗘𝗟𝗧𝗔𝗛 𝗠𝗗 V2.0.0
+## 𓄂⃫尺𝚲丂н_❖
 
 <a href="https://github.com/Beltahmd/beltah-md/fork"><img src="https://img.shields.io/badge/Fork%20Beltahmd%20Repo-blue" alt="FORK BELTAH-MD REPO" width="300"></a>
 
@@ -41,14 +41,7 @@
  ***[![DEPLOY NOW ON HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Beltahmd/beltah-md&template=https://github.com/Beltahmd/beltah-md.git)***
 
 
- ## WATCH TUTORIAL AND SUBSCRIBE
-
-⏣WATCH FULL VIDEO ON HOW TO DEPLOY BELTAH-MD BY CLICKING  [**HERE**](https://www.youtube.com/@Beltahtech2024) 
-
  
-
- ## CONTACT DEVELOPER
-
 ⏣REACH BELTAH-MD DEVELOPER ON WHATSAPP BY CLICKING  [**HERE**](https://wa.me/254114141192)  AND ON TELEGRAM BY CLICKING  [**HERE**](https://t.me/beltah254) 
 
 ## CONTRIBUTIONS
