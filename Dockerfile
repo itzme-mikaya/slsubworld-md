@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/itzme-mikaya/slsubworld-md /root/beltah
-WORKDIR /root/itzme-mikaya/
+RUN git clone https://github.com/itzme-mikaya/slsubworld-md /root/rash
+WORKDIR /root/rash/
 
 
 COPY package.json .
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["node", "beltah.js"]
+CMD ["node", "rash.js"]
