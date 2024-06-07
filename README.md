@@ -1,13 +1,13 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## ♡✇ BELTAH-MD V2.0.0 ✇♡
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='[https://i.imgur.com/LyHic3i.gif](https://ibb.co/GJB5LDq)'/></a>
+## 𓄂⃫尺𝚲丂н_❖ MD
+<a><img src='[https://i.imgur.com/LyHic3i.gif](https://ibb.co/GJB5LDq)'/></a>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗕𝗘𝗟𝗧𝗔𝗛+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=𝗕𝗘𝗟𝗧𝗔𝗛+𝗠𝗗;A+WHATSAPP+BOT;CREATED+BY+RASH+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
-| [![Beltah KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahmd)|
+| [![Beltah KE]([https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50](https://ibb.co/GJB5LDq))](https://github.com/Beltahmd)|
 |----|
 
 <p align="center">
