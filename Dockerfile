@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Unknownrash/slsubworld-md/tree/main /root/beltah
+RUN git clone https://github.com/Unknownrash/slsubworld-md/root/beltah
 WORKDIR /root/beltah/
 
 
